@@ -4,8 +4,8 @@ Official Repository of MystiCode Editor
 
 Tree:
 - [Introduction](#introduction) 
-   - [What is MystiCode?](##whatismysticode?) 
-   - [Requirements](##requirements)
+   - [What is MystiCode?](#whatismysticode?) 
+   - [Requirements](#requirements)
 - [How To Use](#howtouse) 
 - Customizing
    - Hotkeys
