@@ -3,7 +3,7 @@ Official Repository of MystiCode Editor
 
 
 Tree:
-- [Introduction](# Introduction) 
+- [Introduction](#introduction) 
    - What is MystiCode? 
    - Requirements
 - How To Use
