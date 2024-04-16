@@ -6,7 +6,7 @@ Tree:
 - [Introduction](#introduction) 
    - [What is MystiCode?](#whatismysticode?) 
    - [Requirements](#requirements)
-- [How To Use](#howtouse) 
+- [How-To-Use](#howtouse) 
 - Customizing
    - Hotkeys
        - Base Hotkeys
