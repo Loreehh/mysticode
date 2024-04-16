@@ -4,9 +4,9 @@ Official Repository of MystiCode Editor
 
 Tree:
 - [Introduction](#introduction) 
-   - What is MystiCode? 
-   - Requirements
-- How To Use
+   - [What is MystiCode?](##whatismysticode?) 
+   - [Requirements](##requirements)
+- [How To Use](#howtouse) 
 - Customizing
    - Hotkeys
        - Base Hotkeys
@@ -30,7 +30,7 @@ Tree:
        - Custom Pointer
    - Notifications
        - Default Notifications
-       - Custom Fobt
+       - Custom Font
        - Custom Size
        - Custom Icons
    - Languages
