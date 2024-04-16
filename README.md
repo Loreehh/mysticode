@@ -3,10 +3,9 @@ Official Repository of MystiCode Editor
 
 
 Tree:
-- Introduction
+- [Introduction](# Introduction) 
    - What is MystiCode? 
    - Requirements
-   - How to Configure
 - How To Use
 - Customizing
    - Hotkeys
@@ -40,3 +39,15 @@ Tree:
    - Extensions (WIP)
 - How to Update
 - How to report an issue / bug
+
+
+# Introduction 
+
+## What is MystiCode? 
+MystiCode is an IDE Created by x2loreeh & sonosimooo, fully customizable and open-source.
+
+## Requirements
+Windows 10/11
+
+# How to use
+After you have downloaded the EXE installer from the RELEASE section on this repository, you have to double click it and then continue with the installing process. After it has FINISHED, you can close the installer and you can open the Application. 
