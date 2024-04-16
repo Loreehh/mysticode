@@ -26,3 +26,17 @@ Tree:
        - Custom Font
        - Custom Size
        - Custom Effects
+   - Pointer
+       - Default Pointer
+       - Custom Pointer
+   - Notifications
+       - Default Notifications
+       - Custom Fobt
+       - Custom Size
+       - Custom Icons
+   - Languages
+       - Default Language
+       - Custom Languages
+   - Extensions (WIP)
+- How to Update
+- How to report an issue / bug
