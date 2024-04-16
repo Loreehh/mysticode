@@ -4,7 +4,7 @@ Official Repository of MystiCode Editor
 
 Tree:
 - [Introduction](#introduction) 
-   - [What is MystiCode?](#whatismysticode?) 
+   - [What is MystiCode?](#whatismysticode) 
    - [Requirements](#requirements)
 - [How-To-Use](#howtouse) 
 - Customizing
@@ -43,7 +43,7 @@ Tree:
 
 # Introduction 
 
-## What is MystiCode? 
+## What is Mysticode 
 MystiCode is an IDE Created by x2loreeh & sonosimooo, fully customizable and open-source.
 
 ## Requirements
