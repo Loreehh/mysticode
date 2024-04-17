@@ -6,8 +6,8 @@ Tree:
 - [Introduction](#introduction) 
    - [What is MystiCode?](#mysticode) 
    - [Requirements](#requirements)
-- [How-To-Use](#howtouse) 
-- Customizing
+- [How-To-Use](#how-to-use) 
+- [Customizing](#customizing) 
    - Hotkeys
        - Base Hotkeys
        - Custom Hotkeys
@@ -43,7 +43,7 @@ Tree:
 
 # Introduction 
 
-## MystiCode 
+## MystiCode
 MystiCode is an IDE Created by x2loreeh & sonosimooo, fully customizable and open-source.
 
 ## Requirements
@@ -51,3 +51,5 @@ Windows 10/11
 
 # How to Use
 After you have downloaded the EXE installer from the RELEASE section on this repository, you have to double click it and then continue with the installing process. After it has FINISHED, you can close the installer and you can open the Application. 
+
+# Customizing
