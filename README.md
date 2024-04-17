@@ -20,12 +20,12 @@ Tree:
        - Default Icons
        - How to change icons
        - Custom Icons
-   - Text
+   - [Text](#text)
        - Default Text
        - Custom Font
        - Custom Size
        - Custom Effects
-   - Pointer
+   - [Pointer](#pointer)
        - Default Pointer
        - Custom Pointer
    - Notifications
