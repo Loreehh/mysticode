@@ -8,15 +8,15 @@ Tree:
    - [Requirements](#requirements)
 - [How-To-Use](#how-to-use) 
 - [Customizing](#customizing) 
-   - Hotkeys
+   - [Hotkeys](#hotkeys)
        - Base Hotkeys
        - Custom Hotkeys
-   - Theme
+   - [Theme](#theme)
        - Default Themes
        - How to Create a Theme
        - Custom Themes
        - How to import other themes
-   - Icons
+   - [Icons](#icons)
        - Default Icons
        - How to change icons
        - Custom Icons
@@ -53,3 +53,19 @@ Windows 10/11
 After you have downloaded the EXE installer from the RELEASE section on this repository, you have to double click it and then continue with the installing process. After it has FINISHED, you can close the installer and you can open the Application. 
 
 # Customizing
+
+## Hotkeys
+
+## Theme
+
+## Icons
+
+## Text
+
+## Pointer
+
+## Notifications
+
+## Languages
+
+## Extensions
